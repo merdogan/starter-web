@@ -3,8 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Mehmet Erdogan merdogan@gmail.com
+	
 # THANKS
 
     <name>
